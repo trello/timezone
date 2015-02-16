@@ -3,12 +3,10 @@
 Timezone is an application aimed at helping remote teams by making it easier
 to see where and **when** their coworkers are.
 
-[Live demo](http://timezone.djfarrelly.com)
-
 # Setup
 
 Clone this repo and add a `people.json` file in the repo's root directory. 
-Timezone codes for the `tz` field are can be found [here](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones) or [here](http://momentjs.com/timezone/). 
+Timezone codes for the `tz` field are can be found [here](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones). 
 Each person object should have data in the following format:
 
 ```json
@@ -71,5 +69,4 @@ Now to start the server on localhost:3000 you can run:
   $ node ./index.js
 ```
 
-**Note:** These docs are very basic and need some more love. I'll add more info
-soon  :)
+**Note:** These docs are very basic and need some more love.
