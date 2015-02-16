@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Adam Simms",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/adb6f1ea2bd2cc7a1239c592e5c2bfd3/170.png",
+    "city": "Newfoundland",
+    "tz": "Canada/Newfoundland"
+  },
+  {
+    "name": "Alison Tirrell",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/11f50ae8ca985dcf099bd93a86dea679/170.png",
+    "city": "Brooklyn, NY",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Aaron Dufour",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/4117fd8e7dd3689e4e49e50aa1195019/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Babak",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/9ffd5f242bc54e308c01b910125d19e2/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Ben McCormack",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/94527f5abac7de03a5ab541c14b49d11/170.png",
+    "city": "Lilburn, GA",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Bobby Grace",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/8af292903349def7a2d9946ee84d735d/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Brian Cervino",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/29b4a2a862a240a93e6ef1ffa3d640dc/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Brian Schmidt",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/d957735080c26889ffc8238180dcfb26/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Brett Kiefer",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/eaf3b8943d0b668c7afb04f502ec76d5/170.png",
+    "city": "Honolulu, HI",
+    "tz": "US/Hawaii"
+  },
+  {
+    "name": "Chris Kimbell",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/2b7bf820c2f5c4f959b243f3392e2506/170.png",
+    "city": "Topanga, CA",
+    "tz": "US/Pacific"
+  },
+  {
+    "name": "Chorizo",
+    "avatar": "https://trello-attachments.s3.amazonaws.com/548b2b0881f9a7925373b295/600x600/6f70ac12267f24cad7fc619db509b0f4/chorizo-sm.png",
+    "city": "Madrid",
+    "tz": "Europe/Madrid"
+  },
+  {
+    "name": "Corey Davis",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/a5463f0fb2ee61f54eaa6a03184c92f7/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Dan Lew",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/aa2f42eac9890bc0f6532b8e3d3c5f48/170.png",
+    "city": "Minneapolis, MN",
+    "tz": "US/Central"
+  },
+  {
+    "name": "Daniel LeCheminant",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/9b74d193ed6f5f792dc8a8d2a5c00616/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Denise Shimoni",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/3ec296e92c025e769fbc9be16634dab2/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Don Frehulfer",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/4f8b448912972e280dc8581b01a051ff/170.png",
+    "city": "Milford, CT",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Doug Patti",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/2da34d23b5f1ac1a20e2a01157bfa9fe/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Emily Chapman",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/1253152fc7db0dac308a71b592d8dcc0/170.png",
+    "city": "Atlanta, GA",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Fran Bull",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/f46570e0a7e0b54da292196b3403a3e0/170.png",
+    "city": "OR",
+    "tz": "US/Pacific"
+  },
+  {
+    "name": "Fyza Hashim",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/a0d9052b8d8400843bba274de553101d/170.png",
+    "city": "Spring, TX",
+    "tz": "US/Central"
+  },
+  {
+    "name": "Hamid Palo",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/d2c0d04d5d93d63e89dc4b72755ef168/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Hao Lian",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/c4cee4ba42aafc7115fac5eb5de8d095/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Ian Henry",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/b1875f6ca976637f77a7c91358900fef/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Joel Spolsky",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/2ceebc8d38af302487b8410b2e55bf40/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Joanna Lee",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/d656cfe520e6b08a4b0447a94268df62/170.png",
+    "city": "Madison, WI",
+    "tz": "US/Central"
+  },
+  {
+    "name": "Justin Gallagher",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/ad00139f99bafc7ab22565c3cd13f996/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Kristen Habacht",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/02005383599120edba3b3688e37e3b19/170.png",
+    "city": "Milford, CT",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Lauren Moon",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/9efa0204dcc999b0ab2ac57ebc920fa2/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Liz Hall",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/904700b6fa6be0cc573859ada16c39ff/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Lou Franco",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/c8902f52fe723517f99a40c38506f57a/170.png",
+    "city": "Northampton, MA",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Lydia Maumenee",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/e40c00dd077164cdeb50812f106afe06/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Max Kramer",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/9f1f94541a1635c245ee869d09ea54ee/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Michael Pryor",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/d17fc110181efe06f719dfb8353616f1/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Quentin Schroeder",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/d916023aa5105ceaab4eefabe2d30ed0/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  },
+  {
+    "name": "Samantha Gobert",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/8bfa7915d36fe3f4a24df6b84a44caa2/170.png",
+    "city": "Huntsville, TX",
+    "tz": "US/Central"
+  },
+  {
+    "name": "Stella Garber",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/90543579fadfb4ad000408456b856815/170.png",
+    "city": "Chicago, IL",
+    "tz": "US/Central"
+  },
+  {
+    "name": "Sven Henderson",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/2aa4195941444b02753c90e37afe974a/170.png",
+    "city": "Denver, CO",
+    "tz": "US/Mountain"
+  },
+  {
+    "name": "Taco",
+    "avatar": "https://trello-attachments.s3.amazonaws.com/548b2b0881f9a7925373b295/600x600/2650679cd3a0a8336d816eaf5eee62b7/taco-sm.png",
+    "city": "Ancorage, AK",
+    "tz": "America/Anchorage"
+  },
+  {
+    "name": "Ulysses Popple",
+    "avatar": "https://trello-avatars.s3.amazonaws.com/49c2b2c78d2044ce6af92784f8fe8e08/170.png",
+    "city": "NYC",
+    "tz": "US/Eastern"
+  }
+]
