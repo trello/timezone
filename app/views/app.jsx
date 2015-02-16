@@ -20,7 +20,6 @@ module.exports = React.createClass({
         <TimezoneList time={this.props.time}
                       timeFormat={this.state.timeFormat}
                       timezones={this.props.timezones} />
-        <p className="instructions">Use left &amp; right arrow keys to change the time</p>
       </div>
     );
   }
