@@ -1,7 +1,6 @@
 # Timezone
 
-Timezone is an application aimed at helping remote teams by making it easier
-to see where and **when** their coworkers are.
+Timezone is an application aimed at helping remote teams by making it easier to see where their coworkers are.
 
 # Setup
 
@@ -49,7 +48,7 @@ installed on your system to compile the project assets. After install Node.js, r
   $ npm install -g browserify
 ```
 
-To run the server and download all depdencies for the project run this in the
+To run the server and download all dependencies for the project run this in the
 project root directory:
 
 ```bash
@@ -68,5 +67,3 @@ Now to start the server on localhost:3000 you can run:
 ```bash
   $ node ./index.js
 ```
-
-**Note:** These docs are very basic and need some more love.
